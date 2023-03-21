@@ -1,5 +1,5 @@
 {
-  "name": "@ismx-pomera/pomera",
+  "name": "mobility-base-mongo",
   "version": "1.1.25",
   "description": "",
   "main": "index.js",
